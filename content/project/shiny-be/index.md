@@ -13,7 +13,7 @@ summary = "생물학적동등성 분석 앱"
 tags = ["PK"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://3.224.137.212/shiny-be"
+#external_link = "http://3.224.137.212/shiny-be"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,16 +31,17 @@ url_code = "https://github.com/pipetcpt/shiny-be"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#links = [{icon_pack = "fab", icon="google", name="Google Photos", url = "https://photos.app.goo.gl/HzsJoiFrZ12c5Kxe8"}]
+links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "http://3.224.137.212/shiny-be"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by PAGK"
+  caption = "Photo by PIPET"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
+<http://3.224.137.212/shiny-be>

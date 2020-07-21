@@ -13,7 +13,7 @@ summary = "약동/약력학 시뮬레이션"
 tags = ["PK", "PD"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://3.224.137.212/pkpdsim"
+#external_link = "http://3.224.137.212/pkpdsim"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,16 +31,18 @@ url_code = "https://github.com/pipetcpt/pkpdsimulation"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#links = [{icon_pack = "fab", icon="github", name="Github Repo", url = "https://github.com/pipetcpt/pkpdsimulation"}]
+links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "http://3.224.137.212/pkpdsim"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by PAGK"
+  caption = "Photo by PIPET"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+<http://3.224.137.212/pkpdsim>
 
