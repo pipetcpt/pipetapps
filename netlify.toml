@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "https://main.pipetapps.com"
+  to = "http://dualstack.pipetappsalb-271111217.us-east-1.elb.amazonaws.com"
+  status = 301
+  force = true
+
