@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Vancomycin TDM"
+title = "Tacrolimus TDM"
 
 # Date this page was created.
 date = 2009-08-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "반코마이신 치료농도감시"
+summary = "타크로리무스 치료농도감시"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -27,11 +27,11 @@ tags = ["PK", "TDM"]
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/pipetcpt/tdm-vancomycin"
+url_code = "https://github.com/pipetcpt/tdm-tacrolimus"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "http://3.224.137.212/tdm-vancomycin"}]
+links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://pipet.shinyapps.io/tacrolimus"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -44,4 +44,4 @@ links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "http://3.224.
   focal_point = "Smart"
 +++
 
-<http://3.224.137.212/tdm-vancomycin>
+<https://pipet.shinyapps.io/tacrolimus/>

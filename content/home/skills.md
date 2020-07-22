@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Development Team"
-subtitle = ""
+title = "Concepts"
+subtitle = "Applications for Pharmacometrics"
 
 # Showcase personal skills or business features.
 # 

@@ -14,12 +14,12 @@
   weight = 30
 
 [[main]]
-  name = "Team"
+  name = "Concepts"
   url = "#skills"
   weight = 40
 
 [[main]]
-  name = "Info"
+  name = "Server Info"
   url = "info"
   weight = 60
 

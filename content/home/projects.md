@@ -34,8 +34,8 @@ subtitle = ""
     tag = "PD"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "other"
+    name = "TDM"
+    tag = "TDM"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
