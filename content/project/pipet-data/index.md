@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "NCA data"
+title = "NCA"
 
 # Date this page was created.
 date = 2009-08-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "NCA 실습 자료"
+summary = "NCA 실습 및 자료"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -27,7 +27,7 @@ tags = ["PK", "NCA"]
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/pipetcpt/pipetapps/raw/master/content/project/pipet-data/data.zip"
+url_code = "https://asan.shinyapps.io/pkrshiny/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -43,5 +43,7 @@ links = [{icon_pack = "fas", icon="tablet-alt", name="Data", url = "https://gith
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+<https://asan.shinyapps.io/pkrshiny/>
 
 <https://github.com/pipetcpt/pipetapps/raw/master/content/project/pipet-data/data.zip>
