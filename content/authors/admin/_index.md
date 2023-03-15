@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: PIPET
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Catholic university of Korea
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Out research interests include pharmacokinetic/pharmacodynamic modeling or any drug-/disease-related modeling.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Pharmacokinetics
+- Pharmacodymamics
+- Modeling
 
 education:
   courses:
