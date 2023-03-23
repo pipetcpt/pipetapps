@@ -6,7 +6,7 @@ title = "Multiple myeloma risk prediction"
 date = 2009-08-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "Multiple myeloma prediction based on score system"
+summary = "Multiple myeloma prediction tool based on Korea nationwide cohort data"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
