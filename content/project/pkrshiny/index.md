@@ -44,5 +44,6 @@ links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://mychl
   focal_point = "Smart"
 +++
 
-<https://mychloe00.shinyapps.io/pkpdsimulation/>
+<https://asan.shinyapps.io/pkrshiny/>
 
+`NCA web` is open to everyone. We are happy to take your input. Please fork the repo, modify the codes and submit a pull request. <https://github.com/asancpt/pkrshiny> We are actively developing R pacakges and, Shiny Apps regarding clinical pharmacology and pharmacometrics. Please check here. 
