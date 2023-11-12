@@ -31,7 +31,7 @@ url_code = "https://github.com/asancpt/pkrshiny"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://mychloe00.shinyapps.io/pkpdsimulation/"}]
+links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://asan.shinyapps.io/pkrshiny"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
