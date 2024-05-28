@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Multiple myeloma risk prediction"
+title = "MGUS to Multiple myeloma prediction"
 
 # Date this page was created.
 date = 2009-08-28T00:00:00
