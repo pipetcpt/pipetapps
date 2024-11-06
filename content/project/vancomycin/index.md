@@ -27,11 +27,11 @@ tags = ["PK", "TDM"]
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://pipet.shinyapps.io/vancomycin/"
+url_code = "https://github.com/pipetcpt/tdm-vancomycin"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "http://3.224.137.212/tdm-vancomycin"}]
+links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://pipet.shinyapps.io/vancomycin/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
