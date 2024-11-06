@@ -13,7 +13,7 @@ summary = "반코마이신 치료농도감시"
 tags = ["PK", "TDM"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "http://3.224.137.212/vancomycin"
+#external_link = "https://pipet.shinyapps.io/vancomycin/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -27,7 +27,7 @@ tags = ["PK", "TDM"]
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/pipetcpt/tdm-vancomycin"
+url_code = "https://pipet.shinyapps.io/vancomycin/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -44,4 +44,4 @@ links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "http://3.224.
   focal_point = "Smart"
 +++
 
-<http://3.224.137.212/tdm-vancomycin>
+<https://pipet.shinyapps.io/vancomycin/>
